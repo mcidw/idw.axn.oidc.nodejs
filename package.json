@@ -1,0 +1,16 @@
+{
+  "name": "axnapitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "jsonwebtoken": "^7.4.3",
+    "simple-oauth2": "^1.3.0"
+  }
+}
